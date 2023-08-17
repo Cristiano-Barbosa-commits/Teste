@@ -41,3 +41,4 @@ Então o sistema deve apresentar a tela com a mensagem “Thank you!”
 
 Então o sistema deve apresentar a tela com a mensagem de obrigatoriedade do campo não preenchido
     Alert Should Be Present
+    Handle Alert       accept
