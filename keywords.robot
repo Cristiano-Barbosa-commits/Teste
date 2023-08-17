@@ -1,3 +1,8 @@
+*** Settings ***
+
+Library  SeleniumLibrary
+Library     BuiltIn
+
 *** Keywords ***
 Abrir o Navegador
     Open Browser    browser=chrome
